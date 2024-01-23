@@ -14,3 +14,31 @@
 2024-01-23 11:09:06.842 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
 2024-01-23 11:09:07.608 [info] > git status -z -uall [761ms] (cancelled)
 2024-01-23 11:09:09.605 [info] > git check-ignore -v -z --stdin [0ms]
+2024-01-23 11:09:19.480 [info] > git add -A -- . [6940ms]
+2024-01-23 11:09:19.480 [info] warning: adding embedded git repository: .pyenv
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> .pyenv
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached .pyenv
+hint: 
+hint: See "git help submodule" for more information.
+warning: adding embedded git repository: workspace/github.com/Sezuel/bookbot
+2024-01-23 11:09:20.248 [info] > git show --textconv :.git/COMMIT_EDITMSG [8ms]
+2024-01-23 11:09:20.250 [info] > git ls-files --stage -- /home/sezuel/.git/COMMIT_EDITMSG [2ms]
+2024-01-23 11:09:20.592 [info] > git check-ignore -v -z --stdin [2ms]
+2024-01-23 11:09:21.225 [info] > git ls-files --stage -- /home/sezuel/.git/COMMIT_EDITMSG [2ms]
+2024-01-23 11:09:21.235 [info] > git show --textconv :.git/COMMIT_EDITMSG [2ms]
+2024-01-23 11:09:26.840 [info] > git check-ignore -v -z --stdin [6ms]
+2024-01-23 11:09:28.762 [info] > git -c user.useConfigOnly=true commit --quiet [9277ms]
+2024-01-23 11:09:28.762 [info] Aborting commit due to empty commit message.
+2024-01-23 11:09:28.775 [info] No remotes found in the git config file.
+2024-01-23 11:09:28.775 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-23 11:09:28.775 [info] > git config --get commit.template [7ms]
+2024-01-23 11:09:28.922 [info] > git status -z -uall [142ms] (cancelled)

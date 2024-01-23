@@ -1,0 +1,63 @@
+2024-01-23 11:09:38.766 [info] Log level: Info
+2024-01-23 11:09:38.766 [info] Validating found git in: "git"
+2024-01-23 11:09:38.766 [info] Using git "2.34.1" from "git"
+2024-01-23 11:09:38.766 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-23 11:09:38.766 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2024-01-23 11:09:38.766 [info] Open repository: /home/sezuel
+2024-01-23 11:09:38.775 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-23 11:09:38.776 [info] > git config --get commit.template [6ms]
+2024-01-23 11:09:38.780 [info] No remotes found in the git config file.
+2024-01-23 11:09:38.784 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-01-23 11:09:38.786 [info] Open repository: /home/sezuel/workspace/github.com/Sezuel/bookbot
+2024-01-23 11:09:38.787 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-01-23 11:09:38.801 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-23 11:09:38.804 [info] > git config --get commit.template [8ms]
+2024-01-23 11:09:38.808 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-23 11:09:38.812 [info] > git status -z -uall [1ms]
+2024-01-23 11:09:38.822 [info] > git config --get commit.template [1ms]
+2024-01-23 11:09:38.827 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-23 11:09:38.841 [info] > git status -z -uall [49ms] (cancelled)
+2024-01-23 11:09:38.841 [info] > git status -z -uall [1ms]
+2024-01-23 11:09:39.307 [info] > git check-ignore -v -z --stdin [0ms]
+2024-01-23 11:09:39.307 [info] > git check-ignore -v -z --stdin [4ms]
+2024-01-23 11:15:42.190 [info] > git merge-base refs/heads/main refs/remotes/origin/main [14ms]
+2024-01-23 11:15:42.196 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [1ms]
+2024-01-23 11:15:47.697 [info] > git config --get commit.template [0ms]
+2024-01-23 11:15:47.701 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-23 11:15:47.705 [info] > git status -z -uall [1ms]
+2024-01-23 11:15:47.717 [info] > git merge-base refs/heads/main refs/remotes/origin/main [1ms]
+2024-01-23 11:15:47.721 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [1ms]
+2024-01-23 11:15:49.906 [info] > git config --get commit.template [1ms]
+2024-01-23 11:15:49.909 [info] No remotes found in the git config file.
+2024-01-23 11:15:49.910 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-23 11:15:49.950 [info] > git status -z -uall [38ms] (cancelled)
+2024-01-23 11:15:50.066 [info] > git config --get commit.template [4ms]
+2024-01-23 11:15:50.071 [info] No remotes found in the git config file.
+2024-01-23 11:15:50.072 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-23 11:15:50.857 [info] > git status -z -uall [780ms] (cancelled)
+2024-01-23 11:15:52.339 [info] > git check-ignore -v -z --stdin [8ms]
+2024-01-23 11:16:02.790 [info] > git check-ignore -v -z --stdin [15ms]
+2024-01-23 11:16:06.843 [info] > git check-ignore -v -z --stdin [2ms]
+2024-01-23 11:16:11.970 [info] > git show --textconv :.git/COMMIT_EDITMSG [8ms]
+2024-01-23 11:16:11.971 [info] > git ls-files --stage -- /home/sezuel/.git/COMMIT_EDITMSG [2ms]
+2024-01-23 11:16:12.337 [info] > git check-ignore -v -z --stdin [3ms]
+2024-01-23 11:16:12.976 [info] > git ls-files --stage -- /home/sezuel/.git/COMMIT_EDITMSG [2ms]
+2024-01-23 11:16:12.988 [info] > git show --textconv :.git/COMMIT_EDITMSG [2ms]
+2024-01-23 11:16:50.244 [info] > git -c user.useConfigOnly=true commit --quiet [38725ms]
+2024-01-23 11:16:50.252 [info] > git config --get commit.template [0ms]
+2024-01-23 11:16:50.258 [info] No remotes found in the git config file.
+2024-01-23 11:16:50.258 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-23 11:16:50.291 [info] > git status -z -uall [26ms]
+2024-01-23 11:16:50.345 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main [1ms]
+2024-01-23 11:16:50.365 [info] > git config --local branch.main.vscode-merge-base [12ms]
+2024-01-23 11:16:50.372 [info] > git config --get commit.template [8ms]
+2024-01-23 11:16:50.372 [info] > git reflog refs/heads/main --grep-reflog=branch: Created from *. [1ms]
+2024-01-23 11:16:50.386 [info] No remotes found in the git config file.
+2024-01-23 11:16:50.386 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [6ms]
+2024-01-23 11:16:50.387 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-01-23 11:16:50.387 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-23 11:16:50.420 [info] > git status -z -uall [28ms]
+2024-01-23 11:16:54.593 [info] > git config --get commit.template [1ms]
+2024-01-23 11:16:54.598 [info] No remotes found in the git config file.
+2024-01-23 11:16:54.599 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-23 11:16:54.630 [info] > git status -z -uall [26ms]
