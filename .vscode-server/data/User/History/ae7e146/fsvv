@@ -1,0 +1,22 @@
+reinstall for tkinter to work
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	new file:   .vscode-server/data/User/History/11a98d4c/BFRy.json
+#	new file:   .vscode-server/data/User/History/11a98d4c/entries.json
+#	deleted:    .vscode-server/data/User/workspaceStorage/08964ca2d34c4545e686937559143729/vscode.lock
+#	new file:   .vscode-server/data/User/workspaceStorage/2cdf79ae98491957bf0c664af23bd4d2/vscode.lock
+#	modified:   .vscode-server/data/logs/20240123T110049/exthost2/remoteexthost.log
+#	modified:   .vscode-server/data/logs/20240123T110049/exthost2/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20240123T110049/exthost3/output_logging_20240123T110938/1-JSON Language Server.log
+#	new file:   .vscode-server/data/logs/20240123T110049/exthost3/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20240123T110049/exthost3/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20240123T110049/exthost3/vscode.github/GitHub.log
+#	modified:   .vscode-server/data/logs/20240123T110049/remoteagent.log
+#	new file:   workspace/github.com/Sezuel/.vscode/settings.json
+#
+# Changes not staged for commit:
+#	modified:   .vscode-server/data/logs/20240123T110049/exthost3/vscode.git/Git.log
+#

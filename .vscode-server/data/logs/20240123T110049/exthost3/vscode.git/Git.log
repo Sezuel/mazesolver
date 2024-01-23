@@ -61,3 +61,28 @@
 2024-01-23 11:16:54.598 [info] No remotes found in the git config file.
 2024-01-23 11:16:54.599 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
 2024-01-23 11:16:54.630 [info] > git status -z -uall [26ms]
+2024-01-23 11:16:54.671 [info] > git add -A -- . [34ms]
+2024-01-23 11:16:55.002 [info] > git show --textconv :.git/COMMIT_EDITMSG [6ms]
+2024-01-23 11:16:55.003 [info] > git ls-files --stage -- /home/sezuel/.git/COMMIT_EDITMSG [1ms]
+2024-01-23 11:16:55.985 [info] > git ls-files --stage -- /home/sezuel/.git/COMMIT_EDITMSG [1ms]
+2024-01-23 11:16:55.994 [info] > git show --textconv :.git/COMMIT_EDITMSG [1ms]
+2024-01-23 11:17:06.039 [info] > git ls-files --stage -- /home/sezuel/.git/COMMIT_EDITMSG [2ms]
+2024-01-23 11:17:06.048 [info] > git show --textconv :.git/COMMIT_EDITMSG [2ms]
+2024-01-23 11:17:08.139 [info] > git -c user.useConfigOnly=true commit --quiet [13463ms]
+2024-01-23 11:17:08.145 [info] > git config --get commit.template [1ms]
+2024-01-23 11:17:08.148 [info] No remotes found in the git config file.
+2024-01-23 11:17:08.149 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-23 11:17:08.179 [info] > git status -z -uall [27ms]
+2024-01-23 11:17:08.190 [info] > git config --get commit.template [1ms]
+2024-01-23 11:17:08.194 [info] No remotes found in the git config file.
+2024-01-23 11:17:08.195 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-23 11:17:08.211 [info] > git status -z -uall [13ms] (cancelled)
+2024-01-23 11:17:08.211 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main [8ms]
+2024-01-23 11:17:08.215 [info] > git config --get commit.template [5ms]
+2024-01-23 11:17:08.216 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2024-01-23 11:17:08.223 [info] No remotes found in the git config file.
+2024-01-23 11:17:08.224 [info] > git reflog refs/heads/main --grep-reflog=branch: Created from *. [4ms]
+2024-01-23 11:17:08.227 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-01-23 11:17:08.231 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [3ms]
+2024-01-23 11:17:08.231 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-01-23 11:17:08.257 [info] > git status -z -uall [26ms]
