@@ -1,0 +1,26 @@
+2024-01-23 11:02:15.693 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-01-23 11:02:15.693 [info] Experiment 'pythonREPLSmartSend' is active
+2024-01-23 11:02:15.693 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-01-23 11:02:15.693 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2024-01-23 11:02:15.693 [info] Experiment 'pythonTestAdapter' is active
+2024-01-23 11:02:15.728 [info] Default formatter is set to null for workspace /home/sezuel/workspace/github.com/Sezuel/bookbot
+2024-01-23 11:02:15.995 [info] Test server listening.
+2024-01-23 11:02:16.048 [info] > conda info --json
+2024-01-23 11:02:16.060 [info] Found: /bin/python3 --> /bin/python3.10
+2024-01-23 11:02:16.061 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-01-23 11:02:16.070 [info] > ~/.pyenv/versions/3.10.7/bin/python -I ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-23 11:02:16.070 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-01-23 11:02:16.070 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-01-23 11:02:16.122 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-23 11:02:16.122 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-23 11:02:16.122 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-23 11:02:16.122 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-23 11:02:16.122 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-23 11:02:16.122 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-23 11:02:16.122 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-23 11:02:16.199 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-23 11:02:16.220 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-23 11:02:16.248 [info] Python interpreter path: /bin/python3
+2024-01-23 11:02:16.296 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-23 11:02:16.296 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-23 11:02:17.285 [info] Starting Pylance language server.

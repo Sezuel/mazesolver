@@ -1,0 +1,18 @@
+2024-01-23 10:58:53.366 [info] Log level: Info
+2024-01-23 10:58:53.366 [info] Validating found git in: "git"
+2024-01-23 10:58:53.366 [info] Using git "2.34.1" from "git"
+2024-01-23 10:58:53.366 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-23 10:58:53.366 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-01-23 10:58:53.366 [info] Open repository: /home/sezuel/workspace/github.com/Sezuel/bookbot
+2024-01-23 10:58:53.367 [info] > git rev-parse --show-toplevel [29ms]
+2024-01-23 10:58:53.371 [info] > git config --get commit.template [36ms]
+2024-01-23 10:58:53.376 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-23 10:58:53.381 [info] > git status -z -uall [0ms]
+2024-01-23 10:58:53.395 [info] > git config --get commit.template [4ms]
+2024-01-23 10:58:53.395 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-23 10:58:53.399 [info] > git status -z -uall [1ms]
+2024-01-23 10:58:56.155 [info] > git check-ignore -v -z --stdin [1ms]
+2024-01-23 10:58:59.526 [info] > git check-ignore -v -z --stdin [1ms]
+2024-01-23 10:59:00.941 [info] > git show --textconv :.gitignore [3ms]
+2024-01-23 10:59:00.941 [info] > git ls-files --stage -- /home/sezuel/workspace/github.com/Sezuel/bookbot/.gitignore [1ms]
+2024-01-23 10:59:00.945 [info] > git cat-file -s 1503dd9a6311d406af576293da11fd2466c6fac8 [0ms]

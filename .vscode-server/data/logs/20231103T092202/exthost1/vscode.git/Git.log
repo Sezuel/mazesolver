@@ -1,0 +1,16 @@
+2023-11-03 09:22:04.016 [info] Log level: Info
+2023-11-03 09:22:04.016 [info] Validating found git in: "git"
+2023-11-03 09:22:04.016 [info] Using git "2.34.1" from "git"
+2023-11-03 09:22:04.016 [info] > git rev-parse --show-toplevel [7ms]
+2023-11-03 09:22:04.018 [info] > git rev-parse --git-dir --git-common-dir [11ms]
+2023-11-03 09:22:04.029 [info] Open repository: /home/sezuel/workspace/github.com/Sezuel/bookbot
+2023-11-03 09:22:04.058 [info] > git show --textconv HEAD:README.md [16ms]
+2023-11-03 09:22:04.132 [info] > git ls-tree -l HEAD -- /home/sezuel/workspace/github.com/Sezuel/bookbot/README.md [86ms]
+2023-11-03 09:22:04.145 [info] > git config --get commit.template [90ms]
+2023-11-03 09:22:04.208 [info] > git ls-tree -l HEAD -- /home/sezuel/workspace/github.com/Sezuel/bookbot/README.md [46ms]
+2023-11-03 09:22:04.208 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [54ms]
+2023-11-03 09:22:04.216 [info] > git status -z -uall [4ms]
+2023-11-03 09:22:04.272 [info] > git config --get commit.template [44ms]
+2023-11-03 09:22:04.280 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-11-03 09:22:04.285 [info] > git status -z -uall [1ms]
+2023-11-03 09:22:04.643 [info] > git check-ignore -v -z --stdin [1ms]

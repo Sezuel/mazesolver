@@ -1,0 +1,28 @@
+2024-01-23 11:00:49.826 [info] 
+
+
+
+
+2024-01-23 11:00:49.834 [info] Extension host agent started.
+2024-01-23 11:00:49.977 [info] [127.0.0.1][a1e2f3e9][ManagementConnection] New connection established.
+2024-01-23 11:00:50.192 [info] [127.0.0.1][2b6aa6c1][ExtensionHostConnection] New connection established.
+2024-01-23 11:00:50.314 [info] [127.0.0.1][2b6aa6c1][ExtensionHostConnection] <2578> Launched Extension Host Process.
+2024-01-23 11:02:06.272 [info] Getting Manifest... ms-python.python
+2024-01-23 11:02:06.352 [info] Installing extension: ms-python.python
+2024-01-23 11:02:06.648 [info] Getting Manifest... ms-python.vscode-pylance
+2024-01-23 11:02:06.721 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2024-01-23 11:02:07.147 [warning] Extension signature verification failed with error 'ENOENT': ms-python.python
+2024-01-23 11:02:09.932 [info] Extracted extension to file:///home/sezuel/.vscode-server/extensions/ms-python.python-2023.22.1: ms-python.python
+2024-01-23 11:02:09.941 [info] Renamed to /home/sezuel/.vscode-server/extensions/ms-python.python-2023.22.1
+2024-01-23 11:02:09.945 [info] Extracting extension completed. ms-python.python
+2024-01-23 11:02:10.403 [warning] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+2024-01-23 11:02:15.161 [info] Extracted extension to file:///home/sezuel/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1: ms-python.vscode-pylance
+2024-01-23 11:02:15.171 [info] Renamed to /home/sezuel/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1
+2024-01-23 11:02:15.174 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-01-23 11:02:15.180 [info] Extension installed successfully: ms-python.python
+2024-01-23 11:02:15.180 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-01-23 11:09:01.886 [info] [127.0.0.1][a1e2f3e9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-23 11:09:01.906 [info] [127.0.0.1][2b6aa6c1][ExtensionHostConnection] <2578> Extension Host Process exited with code: 0, signal: null.
+2024-01-23 11:09:03.004 [info] [127.0.0.1][5fa2c3d3][ManagementConnection] New connection established.
+2024-01-23 11:09:03.190 [info] [127.0.0.1][c5099ec3][ExtensionHostConnection] New connection established.
+2024-01-23 11:09:03.209 [info] [127.0.0.1][c5099ec3][ExtensionHostConnection] <5932> Launched Extension Host Process.

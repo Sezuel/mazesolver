@@ -1,0 +1,17 @@
+2023-11-09 15:40:36.270 [info] Log level: Info
+2023-11-09 15:40:36.270 [info] Validating found git in: "git"
+2023-11-09 15:40:36.270 [info] Using git "2.34.1" from "git"
+2023-11-09 15:40:36.270 [info] > git rev-parse --show-toplevel [3ms]
+2023-11-09 15:40:36.270 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-11-09 15:40:36.270 [info] Open repository: /home/sezuel/workspace/github.com/Sezuel/bookbot
+2023-11-09 15:40:36.270 [info] > git rev-parse --show-toplevel [18ms]
+2023-11-09 15:40:36.270 [info] > git config --get commit.template [23ms]
+2023-11-09 15:40:36.272 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2023-11-09 15:40:36.279 [info] > git status -z -uall [3ms]
+2023-11-09 15:40:36.290 [info] > git config --get commit.template [1ms]
+2023-11-09 15:40:36.295 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-11-09 15:40:36.299 [info] > git status -z -uall [1ms]
+2023-11-09 15:40:36.548 [info] > git show --textconv :main.py [4ms]
+2023-11-09 15:40:36.548 [info] > git ls-files --stage -- /home/sezuel/workspace/github.com/Sezuel/bookbot/main.py [1ms]
+2023-11-09 15:40:36.555 [info] > git cat-file -s 182230b7eca055d1a81fbc745e4e61b3147d7b5a [4ms]
+2023-11-09 15:40:36.774 [info] > git check-ignore -v -z --stdin [1ms]

@@ -1,0 +1,162 @@
+2023-11-02 11:39:14.451 [info] Extension host with pid 5815 started
+2023-11-02 11:39:14.461 [info] Lock '/home/sezuel/.vscode-server/data/User/workspaceStorage/aa2bbfbe92d94a3912b10e57b6fc87e3/vscode.lock': Lock acquired.
+2023-11-02 11:39:14.548 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-02 11:39:14.607 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-02 11:39:14.619 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-02 11:39:14.620 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-02 11:39:14.759 [info] Eager extensions activated
+2023-11-02 11:39:14.759 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-02 11:39:14.760 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-02 11:39:14.911 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:39:15.151 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:39:19.569 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:39:29.570 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:39:36.568 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:39:41.596 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:39:46.624 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:39:51.652 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:39:56.680 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:40:01.710 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:40:06.738 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:40:12.574 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:40:17.602 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:40:22.630 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:40:27.656 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:40:32.685 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:40:54.344 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:40:59.372 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:41:04.400 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:41:09.696 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:41:16.700 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:41:21.728 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:41:26.756 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:41:31.783 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:41:36.812 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:41:41.838 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:41:57.934 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:42:02.963 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:42:08.711 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:42:13.740 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:42:16.132 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-11-02 11:42:18.766 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:42:23.794 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:42:28.821 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:42:34.718 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:42:39.746 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:42:44.775 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:42:49.803 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:43:07.848 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:43:12.878 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:43:17.905 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:43:27.262 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1178
+2023-11-02 11:43:27.311 [info] Extension host terminating: received terminate message from renderer
+2023-11-02 11:43:27.312 [info] Lock '/home/sezuel/.vscode-server/data/User/workspaceStorage/aa2bbfbe92d94a3912b10e57b6fc87e3/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-11-02 11:43:27.333 [error] Canceled: Canceled
+	at new f (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at i.g (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:125:139130)
+	at i.executeCommand (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at $.registerCommand.description (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:125:137892)
+	at i.h (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:125:139669)
+	at i.g (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:125:138661)
+	at i.executeCommand (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at Object.executeCommand (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:140:21329)
+	at h.D [as value] (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/extensions/git/dist/main.js:2:1316925)
+	at c.y (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.z (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/extensions/git/dist/main.js:2:1332842)
+	at /home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/extensions/git/dist/main.js:2:1337795
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/extensions/git/dist/main.js:2:1337781)
+	at w.<anonymous> (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:121:3572)
+	at w.dispose (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at w.<anonymous> (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/extensions/git/dist/main.js:2:1318937)
+	at w.dispose (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at o (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at h.cb (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:136:9843)
+	at /home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:136:7793
+	at Array.map (<anonymous>)
+	at h.Y (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:136:7781)
+	at h.terminate (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:136:8051)
+	at o.terminate (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at h.value (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:153:7864)
+	at c.y (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at d.fire (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:96:14047)
+	at s.z (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:96:17112)
+	at h.value (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:96:15564)
+	at c.y (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at h.acceptChunk (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:96:11821)
+	at h.value (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:96:11108)
+	at c.y (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:150:19408)
+	at c.acceptFrame (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:150:19214)
+	at l.n (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:150:17713)
+	at /home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:150:14933
+	at Socket.p (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:150:12838)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-11-02 11:43:27.334 [error] Canceled: Canceled
+	at new f (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at i.g (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:125:139130)
+	at i.executeCommand (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at $.registerCommand.description (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:125:137892)
+	at i.h (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:125:139669)
+	at i.g (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:125:138661)
+	at i.executeCommand (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at Object.executeCommand (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:140:21329)
+	at set b [as b] (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/extensions/github/dist/extension.js:2:714708)
+	at /home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/extensions/github/dist/extension.js:2:715349
+	at h.value (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/extensions/git/dist/main.js:2:1408111)
+	at c.y (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.z (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/extensions/git/dist/main.js:2:1332842)
+	at /home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/extensions/git/dist/main.js:2:1337795
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/extensions/git/dist/main.js:2:1337781)
+	at w.<anonymous> (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:121:3572)
+	at w.dispose (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at w.<anonymous> (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/extensions/git/dist/main.js:2:1318937)
+	at w.dispose (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at o (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at h.cb (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:136:9843)
+	at /home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:136:7793
+	at Array.map (<anonymous>)
+	at h.Y (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:136:7781)
+	at h.terminate (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:136:8051)
+	at o.terminate (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at h.value (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:153:7864)
+	at c.y (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at d.fire (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:96:14047)
+	at s.z (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:96:17112)
+	at h.value (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:96:15564)
+	at c.y (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at h.acceptChunk (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:96:11821)
+	at h.value (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:96:11108)
+	at c.y (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:150:19408)
+	at c.acceptFrame (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:150:19214)
+	at l.n (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:150:17713)
+	at /home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:150:14933
+	at Socket.p (/home/sezuel/.vscode-server/bin/d037ac076cee195194f93ce6fe2bdfe2969cc82d/out/vs/workbench/api/node/extensionHostProcess.js:150:12838)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-11-02 11:43:27.334 [info] Extension host with pid 5815 exiting with code 0

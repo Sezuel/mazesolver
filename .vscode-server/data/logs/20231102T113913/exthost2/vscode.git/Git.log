@@ -1,0 +1,18 @@
+2023-11-02 11:43:29.252 [info] Log level: Info
+2023-11-02 11:43:29.252 [info] Validating found git in: "git"
+2023-11-02 11:43:29.252 [info] Using git "2.34.1" from "git"
+2023-11-02 11:43:29.252 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-02 11:44:01.027 [info] > git rev-parse --show-toplevel [1ms]
+2023-11-02 11:47:15.391 [info] > git rev-parse --show-toplevel [1ms]
+2023-11-02 11:47:15.395 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-11-02 11:47:15.402 [info] Open repository: /home/sezuel/workspace/github.com/username/bookbot
+2023-11-02 11:47:15.408 [info] > git config --get commit.template [1ms]
+2023-11-02 11:47:15.414 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-11-02 11:47:15.420 [info] > git status -z -uall [1ms]
+2023-11-02 11:47:15.428 [info] > git config --get commit.template [1ms]
+2023-11-02 11:47:15.433 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-02 11:47:15.437 [info] > git status -z -uall [0ms]
+2023-11-02 11:47:24.863 [info] > git config --get commit.template [5ms]
+2023-11-02 11:47:24.863 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-11-02 11:47:24.868 [info] > git status -z -uall [2ms]
+2023-11-02 11:47:55.332 [info] > git check-ignore -v -z --stdin [1ms]
