@@ -1,25 +1,119 @@
-2024-01-23 11:09:38.461 [info] Extension host with pid 6200 started
-2024-01-23 11:09:38.471 [info] Lock '/home/sezuel/.vscode-server/data/User/workspaceStorage/2cdf79ae98491957bf0c664af23bd4d2/vscode.lock': Lock acquired.
-2024-01-23 11:09:38.486 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
-2024-01-23 11:09:38.545 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
-2024-01-23 11:09:38.545 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
-2024-01-23 11:09:38.697 [info] Eager extensions activated
-2024-01-23 11:09:38.697 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
-2024-01-23 11:09:38.698 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
-2024-01-23 11:10:11.889 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
-2024-01-23 11:15:42.150 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
-2024-01-23 11:15:50.037 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10001
-2024-01-23 11:15:50.842 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10001
-2024-01-23 11:15:54.460 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10001
-2024-01-23 11:15:55.258 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
-2024-01-23 11:15:55.258 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
-2024-01-23 11:16:50.307 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10009
-2024-01-23 11:17:44.731 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
-2024-01-23 11:17:45.049 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
-2024-01-23 11:17:46.215 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
-2024-01-23 12:17:43.475 [info] Extension host terminating: received terminate message from renderer
-2024-01-23 12:17:43.475 [info] Lock '/home/sezuel/.vscode-server/data/User/workspaceStorage/2cdf79ae98491957bf0c664af23bd4d2/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
-2024-01-23 12:17:43.514 [error] Canceled: Canceled
+2024-01-23 15:46:51.119 [info] Extension host with pid 99705 started
+2024-01-23 15:46:51.143 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-01-23 15:46:51.144 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-23 15:46:51.416 [info] Lock '/home/sezuel/.vscode-server/data/User/workspaceStorage/2cdf79ae98491957bf0c664af23bd4d2/vscode.lock': Lock acquired.
+2024-01-23 15:46:51.643 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-01-23 15:46:52.116 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-23 15:46:52.210 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-23 15:46:52.210 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-23 15:46:52.360 [info] Eager extensions activated
+2024-01-23 15:46:52.360 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-23 15:46:52.361 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-23 15:46:52.983 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-01-23 15:46:53.038 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:53.038 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:53.038 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:53.038 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:53.038 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:53.038 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:53.038 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:53.038 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:53.038 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:53.038 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:53.038 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:53.038 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:53.038 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:53.038 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:53.038 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:54.040 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:54.041 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:54.041 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:54.041 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:54.042 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:54.042 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:54.042 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:54.042 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:54.043 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:46:54.043 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-23 15:47:04.180 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-01-23 15:51:25.986 [info] Extension host terminating: received terminate message from renderer
+2024-01-23 15:51:25.987 [info] Lock '/home/sezuel/.vscode-server/data/User/workspaceStorage/2cdf79ae98491957bf0c664af23bd4d2/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-01-23 15:51:26.015 [error] Canceled: Canceled
 	at new g (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
 	at u.U (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
 	at P.<computed>.j.charCodeAt.P.<computed> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
@@ -72,7 +166,7 @@
 	at readableAddChunk (node:internal/streams/readable:297:9)
 	at Readable.push (node:internal/streams/readable:234:10)
 	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
-2024-01-23 12:17:43.515 [error] Canceled: Canceled
+2024-01-23 15:51:26.015 [error] Canceled: Canceled
 	at new g (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
 	at u.U (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
 	at P.<computed>.j.charCodeAt.P.<computed> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
@@ -127,7 +221,7 @@
 	at readableAddChunk (node:internal/streams/readable:297:9)
 	at Readable.push (node:internal/streams/readable:234:10)
 	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
-2024-01-23 12:17:43.515 [error] Canceled: Canceled
+2024-01-23 15:51:26.015 [error] Canceled: Canceled
 	at new g (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
 	at u.U (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
 	at P.<computed>.j.charCodeAt.P.<computed> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
@@ -180,7 +274,7 @@
 	at readableAddChunk (node:internal/streams/readable:297:9)
 	at Readable.push (node:internal/streams/readable:234:10)
 	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
-2024-01-23 12:17:43.515 [error] Canceled: Canceled
+2024-01-23 15:51:26.015 [error] Canceled: Canceled
 	at new g (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
 	at u.U (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
 	at P.<computed>.j.charCodeAt.P.<computed> (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
@@ -235,4 +329,34 @@
 	at readableAddChunk (node:internal/streams/readable:297:9)
 	at Readable.push (node:internal/streams/readable:234:10)
 	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
-2024-01-23 12:17:43.529 [info] Extension host with pid 6200 exiting with code 0
+2024-01-23 15:51:26.016 [error] Canceled: Canceled
+	at Object.C [as $6] (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:7675
+	at Array.forEach (<anonymous>)
+	at u.dispose (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:7613)
+	at f.terminate (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:154:8044)
+	at s.terminate (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:158:1513)
+	at a (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:171:9802)
+	at f.value (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:171:7849)
+	at n.y (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at o.fire (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:14039)
+	at d.z (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:17104)
+	at f.value (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:15556)
+	at n.y (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at f.acceptChunk (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:11813)
+	at f.value (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:11100)
+	at n.y (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at n.z (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:168:19527)
+	at n.acceptFrame (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:168:19333)
+	at i.n (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:168:17832)
+	at /home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:168:15052
+	at Socket.E (/home/sezuel/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:168:12957)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) python.execSelectionInTerminal {"value":"ms-python.python","_lower":"ms-python.python"}
+2024-01-23 15:51:26.019 [info] Extension host with pid 99705 exiting with code 0

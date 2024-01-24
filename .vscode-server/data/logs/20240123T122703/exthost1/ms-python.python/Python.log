@@ -1,0 +1,91 @@
+2024-01-23 12:27:05.368 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-01-23 12:27:05.369 [info] Experiment 'pythonREPLSmartSend' is active
+2024-01-23 12:27:05.369 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-01-23 12:27:05.369 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2024-01-23 12:27:05.369 [info] Experiment 'pythonTestAdapter' is active
+2024-01-23 12:27:05.407 [info] Default formatter is set to null for workspace /home/sezuel/workspace/github.com/Sezuel
+2024-01-23 12:27:05.769 [info] Test server listening.
+2024-01-23 12:27:05.770 [info] Python interpreter path: /bin/python3
+2024-01-23 12:27:06.949 [info] Starting Pylance language server.
+2024-01-23 12:27:11.195 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 12:28:02.953 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 12:31:37.715 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 12:31:38.413 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 12:31:39.495 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 12:34:50.436 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 12:39:44.296 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 12:40:21.428 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 12:50:02.549 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 12:50:15.560 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 12:50:16.850 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 12:51:15.760 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 13:09:53.459 [info] > /bin/python3 ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/normalizeSelection.py
+2024-01-23 13:09:53.604 [info] Send text to terminal: /bin/python3
+2024-01-23 13:09:54.491 [info] Send text to terminal: horz_wall = Cell(win)
+
+2024-01-23 13:10:19.152 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 13:10:20.682 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 13:22:08.416 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 13:51:02.398 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 13:51:47.085 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 13:52:20.914 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 13:52:39.303 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 13:53:32.043 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 13:54:51.484 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 13:55:09.722 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 13:56:31.918 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 13:57:32.525 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 13:59:32.168 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 14:00:35.262 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 14:03:07.451 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 14:04:08.463 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 14:06:45.823 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 14:11:38.013 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 14:11:44.661 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/tests.py
+2024-01-23 14:13:26.813 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 14:16:54.479 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 14:18:54.765 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 14:19:19.313 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 14:20:25.873 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 14:32:28.675 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 14:33:00.292 [info] > /bin/python3 ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/normalizeSelection.py
+2024-01-23 14:33:00.421 [info] Send text to terminal: /bin/python3
+2024-01-23 14:34:25.349 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/tests.py
+2024-01-23 14:35:03.391 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/tests.py
+2024-01-23 14:35:30.525 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/tests.py
+2024-01-23 14:38:23.063 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 14:38:24.317 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 14:38:31.670 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 14:38:53.454 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 14:39:22.738 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 14:41:32.058 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 14:42:29.211 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 14:43:54.250 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 14:44:22.351 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 14:44:51.177 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 14:46:52.672 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 14:49:46.832 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 14:51:05.273 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 14:51:23.367 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 14:55:38.744 [info] > /bin/python3 ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/normalizeSelection.py
+2024-01-23 14:55:38.875 [info] Send text to terminal: /bin/python3
+2024-01-23 14:55:39.782 [info] Selected file contains invalid Python or Deprecated Python 2 code
+2024-01-23 15:16:27.419 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 15:22:33.098 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 15:22:34.507 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/tests.py
+2024-01-23 15:24:33.096 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 15:25:40.209 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 15:28:01.307 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 15:29:16.152 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 15:29:49.707 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 15:35:18.068 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 15:38:13.104 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 15:39:17.162 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 15:39:47.083 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 15:41:53.453 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 15:43:49.841 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 15:45:26.704 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 15:45:44.402 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 15:45:47.692 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 15:46:12.464 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 15:46:37.714 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py

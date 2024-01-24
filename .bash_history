@@ -91,3 +91,24 @@ cd ~/mazesolver
 ls
 cd mazesolver
 touch main.py
+python -m tkinter
+python --version
+sudo apt-get install tk-dev
+python -m tkinter
+pyenv uninstall 3.10.7
+sudo apt-get install tk-dev
+pyenv install 3.10.7
+python -m tkinter
+from tkinter import Tk, BOTH, Canvas
+python -m tkinter
+run main.py
+python main.py
+python mazesolver/main.py
+/bin/python3
+python mazesolver/maze.py
+python mazesolver/tests.py
+python mazesolver/maze.py
+def _break_walls_r(self,i,j):
+/bin/python3
+mazesolver/maze.py
+python mazesolver/maze.py

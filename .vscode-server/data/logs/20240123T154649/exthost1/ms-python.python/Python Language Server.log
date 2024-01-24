@@ -1,0 +1,8 @@
+2024-01-23 15:46:52.777 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2024-01-23 15:46:53.229 [info] [Info  - 3:46:53 PM] (100011) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2024-01-23 15:46:53.229 [info] [Info  - 3:46:53 PM] (100011) Server root directory: /home/sezuel/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2024-01-23 15:46:53.232 [info] [Info  - 3:46:53 PM] (100011) Starting service instance "Sezuel"
+2024-01-23 15:46:53.281 [info] [Info  - 3:46:53 PM] (100011) Setting pythonPath for service "Sezuel": "/bin/python3"
+2024-01-23 15:46:53.281 [info] [Info  - 3:46:53 PM] (100011) Setting environmentName for service "Sezuel": "3.10.12 (global)"
+2024-01-23 15:46:53.303 [info] [Info  - 3:46:53 PM] (100011) Assuming Python version 3.10
+2024-01-23 15:46:53.350 [info] [Info  - 3:46:53 PM] (100011) Found 3 source files

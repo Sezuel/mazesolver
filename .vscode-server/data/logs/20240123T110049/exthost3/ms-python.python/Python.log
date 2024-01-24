@@ -1,0 +1,17 @@
+2024-01-23 11:17:45.319 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-01-23 11:17:45.319 [info] Experiment 'pythonREPLSmartSend' is active
+2024-01-23 11:17:45.319 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-01-23 11:17:45.319 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2024-01-23 11:17:45.319 [info] Experiment 'pythonTestAdapter' is active
+2024-01-23 11:17:45.319 [info] Default formatter is set to null for workspace /home/sezuel/workspace/github.com/Sezuel
+2024-01-23 11:17:45.319 [info] Test server listening.
+2024-01-23 11:17:45.346 [info] Python interpreter path: /bin/python3
+2024-01-23 11:17:45.410 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-23 11:17:45.410 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-23 11:17:45.410 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-23 11:17:45.410 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-23 11:17:45.410 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-23 11:17:46.334 [info] Starting Pylance language server.
+2024-01-23 11:56:05.051 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 11:56:16.638 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py
+2024-01-23 12:15:31.969 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/main.py

@@ -1,0 +1,15 @@
+2024-01-23 15:46:51.610 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-01-23 15:46:51.610 [info] Experiment 'pythonREPLSmartSend' is active
+2024-01-23 15:46:51.610 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-01-23 15:46:51.610 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2024-01-23 15:46:51.610 [info] Experiment 'pythonTestAdapter' is active
+2024-01-23 15:46:51.634 [info] Default formatter is set to null for workspace /home/sezuel/workspace/github.com/Sezuel
+2024-01-23 15:46:51.982 [info] Test server listening.
+2024-01-23 15:46:51.982 [info] Python interpreter path: /bin/python3
+2024-01-23 15:46:53.252 [info] Starting Pylance language server.
+2024-01-23 15:47:46.646 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 15:48:26.565 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 15:50:23.219 [info] > /bin/python3 ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/normalizeSelection.py
+2024-01-23 15:50:23.360 [info] Send text to terminal: /bin/python3
+2024-01-23 15:50:56.225 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
+2024-01-23 15:51:10.270 [info] Discover tests for workspace name: Sezuel - uri: /home/sezuel/workspace/github.com/Sezuel/mazesolver/maze.py
